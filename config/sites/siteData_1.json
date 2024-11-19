@@ -4,31 +4,31 @@
     {
       "name": "X",
       "description": "",
-      "logoSrc": "https://abs.twimg.com/favicons/twitter.3.ico",
+      "logoSrc": "/images/logos/x.ico",
       "url": "https://x.com"
     },
     {
       "name": "Follow",
       "description": "",
-      "logoSrc": "https://app.follow.is/icon-192x192.png",
+      "logoSrc": "/images/logos/follow.ico",
       "url": "https://app.follow.is/"
     },
     {
       "name": "Bilibili",
       "description": "",
-      "logoSrc": "https://space.bilibili.com/favicon.ico",
+      "logoSrc": "/images/logos/bilibili.ico",
       "url": "https://bilibili.com"
     },
     {
       "name": "Youtube",
       "description": "",
-      "logoSrc": "https://www.youtube.com/s/desktop/508deff1/img/logos/favicon_32x32.png",
+      "logoSrc": "/images/logos/youtube.png",
       "url": "https://www.youtube.com/"
     },
     {
       "name": "Gmail",
       "description": "Google 邮箱",
-      "logoSrc": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+      "logoSrc": "/images/logos/gmail.ico",
       "url": "https://mail.google.com/mail"
     },
     {
