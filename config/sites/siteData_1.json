@@ -10,13 +10,13 @@
     {
       "name": "Follow",
       "description": "",
-      "logoSrc": "/images/logos/follow.ico",
+      "logoSrc": "/images/logos/follow.png",
       "url": "https://app.follow.is/"
     },
     {
       "name": "Bilibili",
       "description": "",
-      "logoSrc": "/images/logos/bilibili.ico",
+      "logoSrc": "/images/logos/哔哩哔哩.png",
       "url": "https://bilibili.com"
     },
     {
