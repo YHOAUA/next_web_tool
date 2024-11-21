@@ -2,26 +2,38 @@
   "title": "常用网站",
   "sites": [
     {
+      "name": "GitHub",
+      "description": "全球最大的开源社区",
+      "logoSrc": "/images/logos/github.jpg",
+      "url": "https://github.com/"
+    },
+    {
+      "name": "ChatGPT",
+      "description": "综合能力较强的大型语言模型",
+      "logoSrc": "/images/logos/ChatGPT.webp",
+      "url": "https://chatgpt.com/"
+    },
+    {
       "name": "X",
-      "description": "",
+      "description": "全球顶尖的社群媒体平台之一",
       "logoSrc": "/images/logos/x.ico",
       "url": "https://x.com"
     },
     {
       "name": "Follow",
-      "description": "",
+      "description": "在一个收件箱中关注您喜欢的内容",
       "logoSrc": "/images/logos/follow.png",
       "url": "https://app.follow.is/"
     },
     {
       "name": "Bilibili",
-      "description": "",
+      "description": "以ACG内容为主的综合性视频分享平台",
       "logoSrc": "/images/logos/哔哩哔哩.png",
       "url": "https://bilibili.com"
     },
     {
       "name": "Youtube",
-      "description": "",
+      "description": "目前全球最大的视频搜索和分享平台",
       "logoSrc": "/images/logos/youtube.png",
       "url": "https://www.youtube.com/"
     },
@@ -32,14 +44,8 @@
       "url": "https://mail.google.com/mail"
     },
     {
-      "name": "GitHub",
-      "description": "GitHub 开源社区。",
-      "logoSrc": "/images/logos/github.jpg",
-      "url": "https://github.com/"
-    },
-    {
       "name": "V2EX",
-      "description": "V2EX 创意工作者的社区。",
+      "description": "创意工作者的社区",
       "logoSrc": "/images/logos/v2ex.jpg",
       "url": "https://www.v2ex.com/"
     }

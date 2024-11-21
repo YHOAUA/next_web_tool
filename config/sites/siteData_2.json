@@ -1,41 +1,41 @@
 {
-  "title": "生物信息",
+  "title": "软件博客",
   "sites": [
     {
-      "name": "NCBI",
-      "description": "National Center for Biotechnology Information.",
-      "logoSrc": "/images/logos/ncbi.jpg",
-      "url": "https://www.ncbi.nlm.nih.gov/"
+      "name": "果核剥壳",
+      "description": "分享精品、绿色软件、Windows系统",
+      "logoSrc": "/images/logos/ghxi.ico",
+      "url": "https://www.ghxi.com/"
     },
     {
-      "name": "Bioconda",
-      "description": "Bioconda :: Anaconda.org.",
-      "logoSrc": "/images/logos/bioconda.jpg",
-      "url": "https://anaconda.org/bioconda/"
+      "name": "克隆窝",
+      "description": "优质免费资源平台",
+      "logoSrc": "/images/logos/uy5.png",
+      "url": "https://www.uy5.net/"
     },
     {
-      "name": "CPAN",
-      "description": "Search the CPAN.",
-      "logoSrc": "/images/logos/cpan.jpg",
-      "url": "https://metacpan.org/"
+      "name": "mefcl",
+      "description": "免费分享最新纯净版、绿色版、开源软件",
+      "logoSrc": "/images/logos/mefcl.webp",
+      "url": "https://www.mefcl.com/"
     },
     {
-      "name": "Gitter Galaxy",
-      "description": "Galaxy Gitter Community.",
-      "logoSrc": "/images/logos/gitter.jpg",
-      "url": "https://gitter.im/galaxyproject"
+      "name": "佛系软件",
+      "description": "每天更新大量精品mac应用软件,Windows破解软件",
+      "logoSrc": "/images/logos/foxirj.ico",
+      "url": "https://foxirj.com/"
     },
     {
-      "name": "R Project",
-      "description": "https://www.r-project.org",
-      "logoSrc": "/images/logos/r-project.jpg",
-      "url": "https://www.r-project.org/"
+      "name": "缘本初见",
+      "description": "软件资源分享下载站",
+      "logoSrc": "/images/logos/52ybcj.png",
+      "url": "https://www.52ybcj.com/"
     },
     {
-      "name": "Bioconductor",
-      "description": "http://www.bioconductor.org",
-      "logoSrc": "/images/logos/bioconductor.jpg",
-      "url": "http://www.bioconductor.org/"
+      "name": "鸭先知",
+      "description": "专注分享优质软件应用、技术教程等资源！",
+      "logoSrc": "/images/logos/yxzhi.ico",
+      "url": "https://www.yxzhi.com/"
     }
   ]
 }

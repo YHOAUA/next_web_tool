@@ -20,20 +20,20 @@ export const topMenuList = [
   },
   {
     id: 2,
-    title: "科研办公",
+    title: "综合资源",
     icon: <FlaskConical className="w-4 h-4" />,
     isOpen: false,
     subMenu: [
       {
-        title: "生物信息",
+        title: "软件博客",
         href: "#1",
       },
       {
-        title: "云服务器",
+        title: "游戏资源",
         href: "#2",
       },
       {
-        title: "办公学习",
+        title: "资源下载",
         href: "#3",
       },
     ],
