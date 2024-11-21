@@ -8,6 +8,18 @@
       "url": "https://github.com/"
     },
     {
+      "name": "Gmail",
+      "description": "Google 邮箱",
+      "logoSrc": "/images/logos/gmail.ico",
+      "url": "https://mail.google.com/mail"
+    },
+    {
+      "name": "Follow",
+      "description": "在一个收件箱中关注您喜欢的内容",
+      "logoSrc": "/images/logos/follow.png",
+      "url": "https://app.follow.is/"
+    },
+    {
       "name": "ChatGPT",
       "description": "综合能力较强的大型语言模型",
       "logoSrc": "/images/logos/ChatGPT.webp",
@@ -20,12 +32,6 @@
       "url": "https://x.com"
     },
     {
-      "name": "Follow",
-      "description": "在一个收件箱中关注您喜欢的内容",
-      "logoSrc": "/images/logos/follow.png",
-      "url": "https://app.follow.is/"
-    },
-    {
       "name": "Bilibili",
       "description": "以ACG内容为主的综合性视频分享平台",
       "logoSrc": "/images/logos/哔哩哔哩.png",
@@ -36,12 +42,6 @@
       "description": "目前全球最大的视频搜索和分享平台",
       "logoSrc": "/images/logos/youtube.png",
       "url": "https://www.youtube.com/"
-    },
-    {
-      "name": "Gmail",
-      "description": "Google 邮箱",
-      "logoSrc": "/images/logos/gmail.ico",
-      "url": "https://mail.google.com/mail"
     },
     {
       "name": "V2EX",
