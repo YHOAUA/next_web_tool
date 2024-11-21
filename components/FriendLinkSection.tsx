@@ -13,40 +13,13 @@ const FriendLinkSection = () => {
 
       <div className="flex items-center gap-4 bg-white rounded-lg p-4 dark:bg-[#2c2e2f]">
         <a
-          href="https://csdn.net"
-          title="程序员社区"
+          href="https://github.com"
+          title="GitHub"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs before:content-['•'] before:mr-1 hover:text-red-500 dark:text-white/80 dark:hover:text-white"
         >
-          CSDN
-        </a>
-        <a
-          href="https://gitapp.cn/"
-          title="程序设计网"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs before:content-['•'] before:mr-1 hover:text-red-500 dark:text-white/80 dark:hover:text-white"
-        >
-          程序设计网
-        </a>
-        <a
-          href="https://juejin.im/"
-          title="掘金社区"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs before:content-['•'] before:mr-1 hover:text-red-500 dark:text-white/80 dark:hover:text-white"
-        >
-          掘金社区
-        </a>
-        <a
-          href="https://aliyun.com"
-          title="阿里云社区"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs before:content-['•'] before:mr-1 hover:text-red-500 dark:text-white/80 dark:hover:text-white"
-        >
-          阿里云社区
+          Github
         </a>
       </div>
     </div>
