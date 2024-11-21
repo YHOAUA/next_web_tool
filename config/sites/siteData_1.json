@@ -26,6 +26,12 @@
       "url": "https://chatgpt.com/"
     },
     {
+      "name": "Notion",
+      "description": "在线协同文档",
+      "logoSrc": "/images/logos/Notion.ico",
+      "url": "https://www.notion.so/"
+    },
+    {
       "name": "X",
       "description": "全球顶尖的社群媒体平台之一",
       "logoSrc": "/images/logos/x.ico",
