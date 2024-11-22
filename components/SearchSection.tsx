@@ -59,7 +59,7 @@ export default function SearchSection() {
                       : `after:content-[''] 
                   after:absolute after:left-1/2 after:-translate-x-1/2 
                   after:bottom-1 after:w-1 after:h-1 
-                  after:rounded-full after:bg-white 
+                  after:rounded-full after:bg-gray 
                   after:opacity-0 hover:after:opacity-100
                   after:transition-opacity after:duration-200`
                   }
@@ -71,7 +71,7 @@ export default function SearchSection() {
           ))}
           {/* 添加底部指示器 */}
           <div
-            className="absolute bottom-1 h-[4px] bg-white dark:bg-white/80 rounded-full transition-all duration-300 ease-in-out"
+            className="absolute bottom-1 h-[4px] bg-gray dark:bg-gray/80 rounded-full transition-all duration-300 ease-in-out"
             style={{
               left: `${(100 / 6) * activeTab + (100 / 6) * 0.25}%`, // 向右偏移 1/4 标签宽度
               width: `${(100 / 6) * 0.5}%`, // 设置为标签宽度的一半
