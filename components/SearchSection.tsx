@@ -42,7 +42,7 @@ export default function SearchSection() {
   };
 
   return (
-    <div className="flex justify-center items-center py-16">
+    <div className="flex justify-center items-center py-16 ">
       <div className="flex flex-col items-center w-full px-2">
         <div className="flex text-gray-500/50 w-full md:w-[420px] relative">
           {searchTypes.map((item, index) => (
