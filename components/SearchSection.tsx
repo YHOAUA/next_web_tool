@@ -42,20 +42,20 @@ export default function SearchSection() {
   };
 
   return (
-    <div className="flex justify-center items-center py-16 bg-[url('/images/bg-dna.jpg')]">
+    <div className="flex justify-center items-center py-16">
       <div className="flex flex-col items-center w-full px-2">
-        <div className="flex text-green-500/50 w-full md:w-[420px] relative">
+        <div className="flex text-gray-500/50 w-full md:w-[420px] relative">
           {searchTypes.map((item, index) => (
             <label
               key={item.id}
               htmlFor="search-text"
               className={`
                   flex-1 text-center py-3 md:px-4 
-                  hover:text-green-500 cursor-pointer relative 
+                  hover:text-gray-500 cursor-pointer relative 
                   transition-colors duration-200
                   ${
                     item.isSelected
-                      ? "text-green-500"
+                      ? "text-gray-500"
                       : `after:content-[''] 
                   after:absolute after:left-1/2 after:-translate-x-1/2 
                   after:bottom-1 after:w-1 after:h-1 
